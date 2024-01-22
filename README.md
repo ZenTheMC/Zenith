@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 
 # MongoDB
 User & pass in .env MONGO string
+account was email then usual pass with ! for the mongodb account(not the internal one that is in .env)
