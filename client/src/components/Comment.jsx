@@ -1,5 +1,4 @@
-// import moment from 'moment';
-// ^^ Commented out since it was breaking the app, and I couldn't find a fix, moment wasn't being imported properly.
+import moment from 'moment';
 import { useEffect, useState } from 'react';
 import { FaThumbsUp } from 'react-icons/fa';
 import { useSelector } from 'react-redux';
