@@ -17,7 +17,7 @@ export default function CallToAction() {
             </Button>
         </div>
         <div className="p-7 flex-1">
-            <img src="https://www.flycer.com/wp-content/uploads/2023/03/AI_singularity_and_the_Importance_of_Human_Capital_fantasy_wo_0.jpg" />
+            <img src="https://cdn.pixabay.com/photo/2023/03/11/22/21/ai-generated-7845459_1280.jpg" />
         </div>
     </div>
   )
