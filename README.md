@@ -1,8 +1,36 @@
-# React + Vite
+# Zenith
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PROBLEM: I have an avid passion for fitness, futurism, and anime. I love writing and sharing my thoughts and making the world a more optimistic and positive place. Many people are stuck in a pessimistic fallacy.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+SOLUTION: I created a responsive full-stack app:
+
+|| A blog app ||
+
+**Link to project:**
+
+[Zenith](https://zenith-ug18.onrender.com/)
+
+![App Logo](https://drive.google.com/uc?export=view&id=1sU_QAk5b6znlI9fhuEPg1-dYt-8u6iD9) ![App Screenshot](https://drive.google.com/uc?export=view&id=1Z7kmKYL1oBCRCzmTmWd43xv_D_omCQ9h)
+
+## How It's Made:
+
+**Tech used:** HTML, JavaScript, React, Node, MongoDB, TailwindCSS.
+
+-Admins can write articles, all users can comment and like, along with other features like an admin dashboard, search functionality, authentication, and profile customization.
+
+## Optimizations (*Contributions Welcome*)
+
+-Make a feature that allows an admin(or a new higher status) to give admin status to non-admin users.
+
+-Implement more features that allow non-admin users to interact, besides just exploring blog bosts and commenting and liking comments.
+
+-Allow users, both admins and non-admins, to like, love, favorite, and/or save posts.
+
+## Lessons Learned:
+
+-A mono file structure when using the MERN stack with Vite means that you include your static files outside of the public folder. It means you have a client and server directory in the root folder.
+
+-To deploy on render, you need to add the outbound API addresses for their servers that your app is hosted on, to the mongodb whitelisted IP addresses.
+
+-When testing your APIs, you can simply make a test API and use Postman or a similar API testing app to make requests to your server and see if you get a response.
