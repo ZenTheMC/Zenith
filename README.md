@@ -11,7 +11,7 @@ SOLUTION: I created a responsive full-stack app:
 
 [Zenith](https://zenith-ug18.onrender.com/)
 
-![App Logo](https://drive.google.com/uc?export=view&id=1kswkHepe4r5l-vtPgK93LwrVe17QLvGv) ![App Screenshot](https://drive.google.com/uc?export=view&id=1cJfWZafegS41PfOTyM_EBBLTn6VjLMfr)
+![App Logo](https://drive.google.com/uc?export=view&id=1kswkHepe4r5l-vtPgK93LwrVe17QLvGv) ![App Screenshot](https://drive.google.com/uc?export=view&id=1f_Q8GRSUokZ4Qp3sLOgUnhXK0f-dkpR_)
 
 ## How It's Made:
 
